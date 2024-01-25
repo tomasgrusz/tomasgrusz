@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Tomáš (Tom) Grusz</h1>
 <h3 align="center">A passionate React, Three, and Next.js frontend web developer & design enthusiast ✨ from Slovakia 🇸🇰, currently based in Prague, Czechia 🇨🇿</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomasgrusz" alt="tomasgrusz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomasgrusz&no-frame=true&margin-w=15&theme=darkhub" alt="tomasgrusz" /></a> </p>
 
 - 🗺️ I’m currently working on [Terren: The next generation of map generators & visualizers](https://github.com/tomasgrusz/terren)
 
