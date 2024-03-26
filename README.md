@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋🏼, I'm Tomáš (Tom) Grusz</h1>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=tomasgrusz&theme=onestar&column=3" /></p>
-<h3 align="center">A passionate React, Three, and Next.js frontend web developer & design enthusiast based in Prague, CZ 🇨🇿</h3>
 
 - 🗺️ I’m currently working on [Terren: A web-based procedural map generator & 3D visualiser](https://github.com/tomasgrusz/terren)
 
