@@ -1,7 +1,10 @@
-Hiya! <img width="16" src="https://slackmojis.com/emojis/82398-oh_waveq/download"></img>. I’m [Tom](https://grusz.dev/), a frontend architect & software engineer based in Prague.
+Hiya <img width="16" src="https://slackmojis.com/emojis/82398-oh_waveq/download"></img>! I’m **Tom**, a frontend architect and software engineer based in Prague, with years of dev experience at [Mastercard](https://mastercard.com) and [Make](https://make.com).
 
-🎨 I believe the bridge between designers and developers is crucial. I work to strengthen it, delving into both worlds to create better products. I bring 3D design to the web, blending visual art with code - a skill not many embrace yet.
-
-🌲 Outside of [my projects](https://grusz.dev/#portfolio) and writing [blogs](https://dev.to/gruszdev), I find inspiration in caring for my dog, gardening, and aquascaping - cultivating small ecosystems. Gaming keeps my imagination sharp and playful. My ideal workspace is a cozy, near-forest retreat: natural wood, dark green and black, close to nature for endless inspiration.
+🎨 I believe the bridge between designers and developers is crucial. I work to strengthen it, jumping into both worlds to create better products by applying 3D, visual art, and code - a skill not many embrace yet.
 
 🧋 Fuelled by matcha, oolong, and jasmine tea.
+
+---
+💼 [Check out my projects ➞](https://grusz.dev/#portfolio)
+
+📰 [Read my articles ➞](https://blog.grusz.dev/)
